@@ -4,7 +4,7 @@
 TCAD simulation of 45nm CMOS device using Silvaco Atlas.
 
 ## Quick Start
-1. See `project_description.md` for full technical details
+1. See `project_description.pdf` for full technical details
 2. View plots in `results/plots/`
 3. Review code in `silvaco_code/cmos_45nm.in`
 
